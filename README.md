@@ -9,8 +9,6 @@
 [LearnWeb Taiwan](http://learnweb.tw/) 創辦人 & 貓奴。
 
 ## Contact
-若對於此專案有任何問題，請透過下列方式
-
 Email   ： shawnlin0201@gmail.com  
 Facebook： [Shawn Lin](https://www.facebook.com/shawnlin0201)  
 
