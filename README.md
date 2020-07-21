@@ -2,7 +2,7 @@
 
 # Shawn.developer
 <img src="https://komarev.com/ghpvc/?username=shawnlin0201" alt="shawnlin0201" />
-前端開發工程師，熱於分享、研究與開發具有創新與特別的專案。
+前端開發工程師，熱於分享、研究與開發有趣的專案。
 
 ## Introduction
 [LearnWeb Taiwan](http://learnweb.tw/) 創辦人 & 貓奴。
