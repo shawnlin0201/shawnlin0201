@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.imgur.com/Poihscp.png">
+<img width="100%" src="https://github.com/shawnlin0201/shawnlin0201/blob/master/banner.png?raw=true">
 
 <h2 align="center">Hi, I'm ShawnL. 🌱</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
