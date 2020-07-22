@@ -8,6 +8,17 @@
 ## Introduction
 [LearnWeb Taiwan](http://learnweb.tw/) 創辦人 & 貓奴。
 
+## Focus on
+- Vue.js
+- Testing
+- Optimization
+- Visual Interaction
+
+## Experience
+- Data Visualization
+- Architectural Design
+- UX Flow Design
+
 ## Contact
 Email   ： shawnlin0201@gmail.com  
 Facebook： [Shawn Lin](https://www.facebook.com/shawnlin0201)  
