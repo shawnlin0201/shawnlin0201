@@ -12,12 +12,14 @@
 - Vue.js
 - Testing
 - Optimization
-- Visual Interaction
+- Visual Interaction (SVG, D3.js)
 
 ## Experience
-- Data Visualization
+- SPA Hybrid SSR
+- AWD & RWD Develop
+- Data Visualization (D3.js)
 - Architectural Design
-- UX Flow Design
+- UX Flow Design (draw.io)
 
 ## Contact
 Email   ： shawnlin0201@gmail.com  
