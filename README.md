@@ -6,20 +6,22 @@
 前端開發工程師，熱於分享、研究與開發有趣的專案。
 
 ## Introduction
-[LearnWeb Taiwan](http://learnweb.tw/) 創辦人 & 貓奴。
+- [LearnWeb Taiwan](http://learnweb.tw/) 創辦人
+- 兩隻貓的貓奴。
+- 喜歡研究遊戲中各種機制 & 流程。
 
 ## Focus on
 - Vue.js
 - Testing
 - Optimization
-- Visual Interaction (SVG, D3.js)
+- Visual Interaction
 
 ## Experience
-- SPA Hybrid SSR
-- AWD & RWD Develop
+- Web Model Dev. Exp. (SSR, SPA, SPA & SSR)
+- Web Design Dev. Exp. (AWD, RWD)
 - Data Visualization (D3.js)
 - Architectural Design
-- UX Flow Design (draw.io)
+- UX Flow Design
 
 ## Contact
 Email   ： shawnlin0201@gmail.com  
