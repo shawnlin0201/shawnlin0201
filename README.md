@@ -6,7 +6,7 @@
 前端開發工程師，熱於分享、研究與開發有趣的專案。
 
 ## Introduction
-- [LearnWeb Taiwan](http://learnweb.tw/) 創辦人
+- LearnWeb Taiwan 創辦人。 [Facebook 社團](https://www.facebook.com/groups/LearnWeb.Taiwan) 、 [官方網站](http://learnweb.tw/)
 - 兩隻貓的貓奴。
 - 喜歡研究遊戲中各種機制 & 流程。
 
@@ -17,6 +17,7 @@
 - Visual Interaction
 
 ## Experience
+- 1 years + front-end Dev. Exp.
 - Web Model Dev. Exp. (SSR, SPA, SPA & SSR)
 - Web Design Dev. Exp. (AWD, RWD)
 - Data Visualization (D3.js)
