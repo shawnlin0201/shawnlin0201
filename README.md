@@ -17,7 +17,6 @@
 - Visual Interaction
 
 ## Experience
-- 1 years + front-end Dev. Exp.
 - Web Model Dev. Exp. (SSR, SPA, SPA & SSR)
 - Web Design Dev. Exp. (AWD, RWD)
 - Data Visualization (D3.js)
