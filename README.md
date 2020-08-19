@@ -4,7 +4,36 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=shawnlin0201" alt="shawnlin0201" /> -->
 前端開發工程師，熱於分享、研究與開發有趣的專案。
+<!-- 一句話證明自己在甲方公司：「在瀏覽器搜尋列上第一個字從 a 到 z，第一個推薦出現的都是自己家的 sub domain」 -->
 
+<!-- 工程師的網址
+a: 
+b: 
+c: 
+d: 
+e: 
+f: 
+g: 
+h: 
+i: 
+j: 
+k: 
+l: 
+m: 
+n: 
+o: 
+p: 
+q: 
+r: 
+s: 
+t: 
+u: 
+v: 
+w: 
+x: 
+y: 
+z: 
+-->
 ## Introduction
 - LearnWeb Taiwan 創辦人。 [Facebook 社團](https://www.facebook.com/groups/LearnWeb.Taiwan) 、 [官方網站](http://learnweb.tw/)
 - 兩隻貓的貓奴。
