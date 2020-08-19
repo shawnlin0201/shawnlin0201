@@ -7,32 +7,32 @@
 <!-- 一句話證明自己在甲方公司：「在瀏覽器搜尋列上第一個字從 a 到 z，第一個推薦出現的都是自己家的 sub domain」 -->
 
 <!-- 工程師的網址
-a: 
+a: https://app.zeplin.io/project/
 b: 
-c: 
+c: https://caniuse.com/
 d: 
 e: 
 f: 
-g: 
-h: 
-i: 
-j: 
-k: 
-l: 
-m: 
+g: https://github.com/
+h: https://hackmd.io/
+i: https://ithelp.ithome.com.tw/
+j: https://jsbin.com/
+k: https://kktix.com/
+l: http://localhost:3000/
+m: https://memes.tw/maker
 n: 
 o: 
 p: 
 q: 
-r: 
-s: 
-t: 
+r: https://regexr.com/
+s: https://stackoverflow.com/
+t: https://www.tenlong.com.tw/
 u: 
-v: 
-w: 
-x: 
-y: 
-z: 
+v: https://vuejs.org/
+w: https://wakatime.com/
+x: https://xd.adobe.com/view/
+y: https://www.youtube.com/?gl=TW&hl=zh-TW
+z: https://app.zeplin.io/
 -->
 ## Introduction
 - LearnWeb Taiwan 創辦人。 [Facebook 社團](https://www.facebook.com/groups/LearnWeb.Taiwan) 、 [官方網站](http://learnweb.tw/)
